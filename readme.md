@@ -1,4 +1,5 @@
-#The Ultimate Guide to Organizing a Meetup
+#The Ultimate Guide to Organizing a Meetup [Work in Progress]
+Currently just some initial thoughts for this post
 
 ##Qualifiers
 + Experience comes from LadiesWhoCode
